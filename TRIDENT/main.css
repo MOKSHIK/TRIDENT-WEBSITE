@@ -1,0 +1,41 @@
+.bg-img {
+  height: 100vh;
+  min-height: 400px;
+  background-size: cover;
+  background-image: url("./images/game.jpg");
+}
+
+.right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.cart-index {
+  position: relative;
+  margin: auto;
+  top: -7px;
+  right: -10px;
+  text-align: center;
+  font-size: 12px;
+  color: white;
+}
+
+.pad {
+  margin-right: 25px;
+}
+
+.row {
+  margin-top: 12.9em;
+  margin-bottom: 12.9em;
+}
+
+.card {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.carousel-inner {
+  background-image: url("/images/background.jpg");
+}
+/*# sourceMappingURL=main.css.map */
